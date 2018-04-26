@@ -1,0 +1,14 @@
+C:\Users\brand\source\repos\Pension\Pension\bin\Debug\Pension.exe.config
+C:\Users\brand\source\repos\Pension\Pension\bin\Debug\Pension.exe
+C:\Users\brand\source\repos\Pension\Pension\bin\Debug\Pension.pdb
+C:\Users\brand\source\repos\Pension\Pension\obj\Debug\Pension.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Pension\Pension\obj\Debug\Pension.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Pension\Pension\obj\Debug\Pension.exe
+C:\Users\brand\source\repos\Pension\Pension\obj\Debug\Pension.pdb
+C:\Users\brand\Desktop\Pension\Pension\Pension\bin\Debug\Pension.exe.config
+C:\Users\brand\Desktop\Pension\Pension\Pension\bin\Debug\Pension.exe
+C:\Users\brand\Desktop\Pension\Pension\Pension\bin\Debug\Pension.pdb
+C:\Users\brand\Desktop\Pension\Pension\Pension\obj\Debug\Pension.csprojResolveAssemblyReference.cache
+C:\Users\brand\Desktop\Pension\Pension\Pension\obj\Debug\Pension.csproj.CoreCompileInputs.cache
+C:\Users\brand\Desktop\Pension\Pension\Pension\obj\Debug\Pension.exe
+C:\Users\brand\Desktop\Pension\Pension\Pension\obj\Debug\Pension.pdb
